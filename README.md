@@ -1,4 +1,7 @@
 # Detect Multi Label Image through Single Label Classifier
+
+Detailed Thesis Paper can be found [here](https://github.com/shubhashis-k/multi-image-classifier-convnet/blob/master/Thesis.pdf)
+
 The primary methodology is the following:
 
 ![methodology](https://github.com/shubhashis-k/multi-image-classifier-convnet/blob/master/Workflow.JPG)
